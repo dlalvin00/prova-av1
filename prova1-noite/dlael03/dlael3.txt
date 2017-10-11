@@ -1,0 +1,7 @@
+./dlael1.txt
+./dlael2.txt
+./pasta2/2.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
+./dlael3.txt
+./dlael03
